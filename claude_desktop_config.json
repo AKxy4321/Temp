@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "lab_002_custom_mcp": {
+      "description": "Custom Python tool",
+      "command": "/home/arch/miniconda3/envs/genai/bin/python",
+      "args": [
+        "/home/arch/code/Archive/Advanced_GenAI/Lab_002/my_mcp_server.py"
+      ]
+    }
+  }
+}
